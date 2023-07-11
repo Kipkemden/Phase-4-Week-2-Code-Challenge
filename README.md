@@ -1,24 +1,57 @@
-# README
+# Heroes API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Heroes API is a Rails API backend for tracking heroes and their superpowers.
 
-Things you may want to cover:
+## Requirements
 
-* Ruby version
+- Ruby version: x.x.x
+- Rails version: x.x.x
+- SQLite3
 
-* System dependencies
+## Getting Started
 
-* Configuration
+### Installation
 
-* Database creation
+1. Clone the repository:
 
-* Database initialization
+2. Change into the project directory:
 
-* How to run the test suite
+3. Install the dependencies:
 
-* Services (job queues, cache servers, search engines, etc.)
+### Database Setup
 
-* Deployment instructions
+1. Create the database and run migrations:
 
-* ...
+2. Seed the database with initial data:
+
+### Running the Server
+
+Start the Rails server:
+
+The API will be accessible at `http://localhost:3000`.
+
+## API Documentation
+
+### Heroes
+
+- **GET /heroes**: Retrieve all heroes.
+- **GET /heroes/:id**: Retrieve a specific hero by ID.
+
+### Powers
+
+- **GET /powers**: Retrieve all powers.
+- **GET /powers/:id**: Retrieve a specific power by ID.
+- **PATCH /powers/:id**: Update a specific power by ID.
+
+### Hero Powers
+
+- **POST /hero_powers**: Create a new hero power.
+
+## Contributing
+
+Contributions are welcome!
+
+## License
+
+This project is licensed under the [MIT License] attached as a separate folder.
+
