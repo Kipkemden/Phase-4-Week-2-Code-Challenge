@@ -4,8 +4,8 @@ Heroes API is a Rails API backend for tracking heroes and their superpowers.
 
 ## Requirements
 
-- Ruby version: x.x.x
-- Rails version: x.x.x
+- Ruby version
+- Rails version
 - SQLite3
 
 ## Getting Started
