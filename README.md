@@ -53,5 +53,5 @@ Contributions are welcome!
 
 ## License
 
-This project is licensed under the [MIT License] attached as a separate folder.
+This project is licensed under the [MIT License] (https://github.com/Kipkemden/Phase-4-Week-2-Code-Challenge/blob/main/LICENSE)
 
