@@ -1,4 +1,4 @@
-# Heroes API
+# SA-01 Week Two Code Challenge: Superheroes
 
 Heroes API is a Rails API backend for tracking heroes and their superpowers.
 
